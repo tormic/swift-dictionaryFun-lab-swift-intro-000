@@ -19,7 +19,15 @@ class ViewController: UIViewController {
         // Test your functions here. You have access to the icecream constant created above.
         
         
-        
+        var favoriteFlavorsOfIceCream : [String : String] = [
+            "Joe" : "Peanut Butter and Chocolate",
+            "Tim" : "Natural Vanilla",
+            "Sophie" : "Mexican Chocolate",
+            "Deniz" : "Natural Vanilla",
+            "Tom" : "Mexican Chocolate",
+            "Jim" : "Natural Vanilla",
+            "Susan" : "Cookies 'N' Cream"
+        ]
         
         
         
